@@ -16,3 +16,9 @@ textarea {
     }
   }
 }
+
+@media screen and (max-width: 510px){
+  .form-container{
+    margin: 10px;
+  }
+}
